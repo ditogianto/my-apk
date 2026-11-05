@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T20:00:00Z",
+  "updated_at": "2026-11-05T12:39:41Z",
   "repository": "https://github.com/ditogianto/my-apk",
   "apps": {
     "cyber": {
@@ -9,9 +9,11 @@
       "versionCode": 101,
       "apkFileName": "Cyber-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Cyber-v1.0.apk",
-      "fileSizeMB": "14.5 MB",
+      "fileSizeMB": "13.79 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "fd15eb95cbba6ee95b9a5929f636f98501ad9613a499004e498c15aa34f7902b",
+      "sizeBytes": 14454822
     },
     "redteam": {
       "id": "redteam",
@@ -20,9 +22,11 @@
       "versionCode": 101,
       "apkFileName": "Red-Team-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Red-Team-v1.0.apk",
-      "fileSizeMB": "12.0 MB",
+      "fileSizeMB": "11.45 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "4e2e42aab49e4d31b2cd817f7c1bbe835a7b9643ab8b1af796f6fcb02857157b",
+      "sizeBytes": 12005614
     },
     "blueteam": {
       "id": "blueteam",
@@ -31,9 +35,11 @@
       "versionCode": 101,
       "apkFileName": "Blue-Team-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Blue-Team-v1.0.apk",
-      "fileSizeMB": "13.9 MB",
+      "fileSizeMB": "13.27 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "95e85f99b19a7f94213b2d98b6399e5d0e6df577d927cdcbf0b8bc1bbe6eaa17",
+      "sizeBytes": 13911594
     },
     "osint": {
       "id": "osint",
@@ -42,9 +48,11 @@
       "versionCode": 101,
       "apkFileName": "OSINT-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/OSINT-v1.0.apk",
-      "fileSizeMB": "12.6 MB",
+      "fileSizeMB": "11.98 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "9ce3f044bf5e3086f7b3c4e455573d1eca7f5907d3a9f7156952a16e8b539811",
+      "sizeBytes": 12564542
     },
     "bugbounty": {
       "id": "bugbounty",
@@ -53,9 +61,11 @@
       "versionCode": 101,
       "apkFileName": "Bug-Bounty-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Bug-Bounty-v1.0.apk",
-      "fileSizeMB": "13.1 MB",
+      "fileSizeMB": "12.48 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "fd92535ffcf318023bc270f0afd87bb83406367fe90855d2d667906d1caff52d",
+      "sizeBytes": 13089863
     },
     "analysis": {
       "id": "analysis",
@@ -64,9 +74,11 @@
       "versionCode": 101,
       "apkFileName": "Analysis-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Analysis-v1.0.apk",
-      "fileSizeMB": "10.6 MB",
+      "fileSizeMB": "10.11 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "6e3616845646ddfcc535fd56a684a28b31bb671d77c15ae22d1dc21c913945e3",
+      "sizeBytes": 10599757
     },
     "trader": {
       "id": "trader",
@@ -75,9 +87,11 @@
       "versionCode": 101,
       "apkFileName": "Trader-v1.0.apk",
       "downloadUrl": "https://raw.githubusercontent.com/ditogianto/my-apk/main/Trader-v1.0.apk",
-      "fileSizeMB": "11.7 MB",
+      "fileSizeMB": "11.13 MB",
       "releaseDate": "05 Nov 2026",
-      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader."
+      "releaseNotes": "Navigasi tombol Back hardware Android (LIFO stack & double-tap exit), serta fitur OTA update in-app downloader.",
+      "sha256": "84637043f6a9ffbcec2dd23457aa9f7b550fc8e007547430104e42fc36f502ad",
+      "sizeBytes": 11674440
     }
   }
 }
